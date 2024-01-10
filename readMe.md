@@ -8,5 +8,7 @@
 
 # CMD in terminal
 
-1. Tạo một terminal: ipfs daemon // chạy một node ipfs ở local host
-2. Tạo một terminal khác: run py uploadIpfs.py (upload file & metadata to ipfs local host)
+1. Tạo một terminal:
+ipfs daemon // chạy một node ipfs ở local host
+3. Tạo một terminal khác:
+py uploadIpfs.py (upload file & metadata to ipfs local host)
