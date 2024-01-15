@@ -34,3 +34,6 @@ def main_for_upload_PINATA():
     upload_to_pinata(metadata_file_name_path)  # upload metadata to Pinata
     image_path = "./img/" + ".jpg"
     image_uri = upload_to_pinata(image_path)  # upload image to Pinata
+    
+def main():
+    main_for_upload_PINATA() 
